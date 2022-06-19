@@ -1,0 +1,18 @@
+2022-05-11 18:11:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found (this database is empty); SQL statement:
+select * from book [42104-212]
+2022-05-11 18:11:02 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found (this database is empty); SQL statement:
+select * from student [42104-212]
+2022-05-11 18:11:02 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BORROW" not found (this database is empty); SQL statement:
+select * from borrow [42104-212]
+2022-05-11 18:11:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found (this database is empty); SQL statement:
+select * from book [42104-212]
+2022-05-11 18:11:24 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found (this database is empty); SQL statement:
+select * from student [42104-212]
+2022-05-11 18:11:24 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BORROW" not found (this database is empty); SQL statement:
+select * from borrow [42104-212]
